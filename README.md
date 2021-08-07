@@ -1,4 +1,6 @@
-## Olá, estou estudando Python e C :)
+## Olá :D
+## Sou estudante de Engenharia de Controle e Automação
+## Estou aprendendo Python e C++ 
 
  <div>
   <a href="https://github.com/emciv02">
